@@ -1,0 +1,21 @@
+{
+  "one" : "var",
+  "two" : "ext",
+  "ash": [
+    {
+      "double1" : "double",
+      "double2" : "double<first><second>double",
+      "literal1" : "'literal-1'",
+      "literal2" : "\"literal-2\"",
+      "var" : "one-$one)-two",
+      "true" : true,
+      "int" : "8",
+      "list" : [
+        {
+        "first" : "first",
+        "second" : "second"
+        }
+      ]
+    }
+  ]
+}
